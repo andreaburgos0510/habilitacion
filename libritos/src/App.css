@@ -1,0 +1,28 @@
+*{
+  padding: 0;
+  margin: 0;
+
+}
+
+.input{
+  padding: 5px;
+  outline: none;
+  width: 90%;
+  margin: 10px 0;
+}
+
+.button{
+  border: 0;
+  border-radius: 10px;
+  font-weight: Tahoma;
+  padding: 8px;
+  margin-right: 5px;
+}
+.btn-blue{
+  background-color:rgb(47, 162, 198);
+  color: rgb(255, 255, 255);
+}
+.btn-normal{
+  background-color:rgb(25, 255, 255);
+  color: rgb(82, 82, 82);
+}
